@@ -1,0 +1,9 @@
+https://docs.microsoft.com/en-us/azure/best-practices-availability-paired-regions
+https://docs.microsoft.com/en-us/azure/role-based-access-control/overview
+https://docs.microsoft.com/en-us/azure/key-vault/secrets/quick-create-net
+https://docs.microsoft.com/en-us/azure/active-directory/authentication/concept-mfa-howitworks
+https://docs.microsoft.com/en-us/azure/virtual-machines/availability-set-overview
+https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-faq
+
+
+

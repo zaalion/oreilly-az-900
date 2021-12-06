@@ -10,6 +10,9 @@ https://docs.microsoft.com/en-us/azure/cost-management-billing/manage/subscripti
 https://azure.microsoft.com/en-ca/pricing/calculator
 https://docs.microsoft.com/en-us/azure/web-application-firewall/ag/ag-overview
 https://www.mindhub.com/az-900-microsoft-azure-fundamentals-microsoft-official-practice-test/p/MU-AZ-900
+https://docs.microsoft.com/en-ca/azure/virtual-machines/disks-types
+https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/relational-vs-nosql-data
+https://docs.microsoft.com/en-us/azure/cost-management-billing/reservations/save-compute-costs-reservations
 
 
 

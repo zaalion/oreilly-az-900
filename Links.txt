@@ -6,4 +6,12 @@ https://docs.microsoft.com/en-us/azure/virtual-machines/availability-set-overvie
 https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-faq
 
 
+https://docs.microsoft.com/en-us/azure/cost-management-billing/manage/subscription-disabled
+https://azure.microsoft.com/en-ca/pricing/calculator
+https://docs.microsoft.com/en-us/azure/web-application-firewall/ag/ag-overview
+https://www.mindhub.com/az-900-microsoft-azure-fundamentals-microsoft-official-practice-test/p/MU-AZ-900
+
+
+
+
 

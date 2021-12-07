@@ -14,6 +14,13 @@ https://docs.microsoft.com/en-ca/azure/virtual-machines/disks-types
 https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/relational-vs-nosql-data
 https://docs.microsoft.com/en-us/azure/cost-management-billing/reservations/save-compute-costs-reservations
 
+https://azure.microsoft.com/en-ca/pricing/details/active-directory/
+https://docs.microsoft.com/en-us/azure/role-based-access-control/overview
+https://docs.microsoft.com/en-us/azure/virtual-machines/spot-vms
+https://www.youtube.com/watch?v=FOFWbSYbbVI
+https://azure.microsoft.com/en-us/services/cognitive-services
+https://docs.microsoft.com/en-ca/azure/synapse-analytics/overview-what-is
+
 
 
 

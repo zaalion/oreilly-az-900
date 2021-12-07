@@ -20,6 +20,17 @@ https://docs.microsoft.com/en-us/azure/virtual-machines/spot-vms
 https://www.youtube.com/watch?v=FOFWbSYbbVI
 https://azure.microsoft.com/en-us/services/cognitive-services
 https://docs.microsoft.com/en-ca/azure/synapse-analytics/overview-what-is
+https://docs.microsoft.com/en-us/azure/iot-hub/iot-concepts-and-iot-hub
+https://docs.microsoft.com/en-us/learn/certifications/azure-iot-developer-specialty/
+https://docs.microsoft.com/en-us/azure/defender-for-cloud/security-policy-concept
+https://docs.microsoft.com/en-us/azure/availability-zones/cross-region-replication-azure#azure-cross-region-replication-pairings-for-all-geographies
+https://docs.microsoft.com/en-us/azure/iot-central/core/overview-iot-central
+https://docs.microsoft.com/en-us/azure-sphere/product-overview/what-is-azure-sphere
+https://docs.microsoft.com/en-us/azure/hdinsight/hdinsight-overview
+https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/deploy-powershell
+https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/deploy-cli
+https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/deploy-portal
+https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/deploy-rest
 
 
 

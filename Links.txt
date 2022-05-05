@@ -23,7 +23,7 @@ https://docs.microsoft.com/en-ca/azure/synapse-analytics/overview-what-is
 https://docs.microsoft.com/en-us/azure/iot-hub/iot-concepts-and-iot-hub
 https://docs.microsoft.com/en-us/learn/certifications/azure-iot-developer-specialty/
 https://docs.microsoft.com/en-us/azure/defender-for-cloud/security-policy-concept
-https://docs.microsoft.com/en-us/azure/availability-zones/cross-region-replication-azure#azure-cross-region-replication-pairings-for-all-geographies
+https://docs.microsoft.com/en-us/azure/availability-zones/cross-region-replication-azure#azure-cross-region-replication-pairings-for-all-geographies    sxsadsad!!@!@!333
 https://docs.microsoft.com/en-us/azure/iot-central/core/overview-iot-central
 https://docs.microsoft.com/en-us/azure-sphere/product-overview/what-is-azure-sphere
 https://docs.microsoft.com/en-us/azure/hdinsight/hdinsight-overview
@@ -31,6 +31,24 @@ https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/deploy-p
 https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/deploy-cli
 https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/deploy-portal
 https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/deploy-rest
+
+
+https://docs.microsoft.com/en-us/azure/key-vault/general/basic-concepts
+https://azure.microsoft.com/en-us/pricing/details/app-service/windows/
+https://azure.microsoft.com/en-us/services/
+https://azure.microsoft.com/en-us/services/logic-apps/
+https://docs.microsoft.com/en-us/azure/azure-functions/functions-compare-logic-apps-ms-flow-webjobs
+https://azure.microsoft.com/en-us/solutions/serverless/
+https://docs.microsoft.com/en-us/azure/architecture/
+
+https://labs.azure.com/
+
+Preparing
+---------
+https://docs.microsoft.com/en-us/learn/certifications/exams/az-900?tab=tab-learning-paths
+
+https://partner.microsoft.com/en-rs/solutions/the-commercial-marketplace
+
 
 
 

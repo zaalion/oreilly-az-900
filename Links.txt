@@ -43,6 +43,7 @@ https://docs.microsoft.com/en-us/azure/governance/policy/tutorials/create-custom
 https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services
 https://docs.microsoft.com/en-us/learn/certifications/devops-engineer/
 https://docs.microsoft.com/en-us/azure/key-vault/general/about-keys-secrets-certificates
+https://azure.microsoft.com/en-ca/pricing/details/monitor/
 
 
 Azure Labs

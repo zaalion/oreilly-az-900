@@ -1,0 +1,332 @@
+On-demand O'Reilly AZ-900 Course
+================================
+https://learning.oreilly.com/videos/microsoft-azure-fundamentals/0636920797234/
+
+Official exam page
+==================
+https://learn.microsoft.com/en-us/certifications/exams/az-900
+
+The course GitHub repository
+============================
+https://github.com/zaalion/oreilly-az900ondemand
+
+Creating* a free** Azure account
+==============================
+https://azure.microsoft.com/en-ca/free/
+* A credit card is needed to verify your identity and billing address	
+** Not all services under the free Azure account are free. This depends on the service tier/size or other factors. Please see the terms and 	conditions before provisiong a new service	
+
+What is Cloud Computing?
+========================
+https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-cloud-computing/
+https://docs.microsoft.com/en-us/azure/security/fundamentals/shared-responsibility
+
+Understanding Public and Private Clouds
+=======================================
+https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-are-private-public-hybrid-clouds/
+
+Cloud Pricing Models
+====================
+https://docs.microsoft.com/en-us/azure/architecture/framework/cost/design-price
+https://azure.microsoft.com/en-ca/solutions/serverless/#solutions
+
+Availability, Scalability, Reliability, and Predictability
+==========================================================
+https://en.wikipedia.org/wiki/Cloud_computing
+https://azure.microsoft.com/en-us/explore/reliability/
+https://azure.microsoft.com/en-ca/support/legal/sla/virtual-machines/v1_9/
+https://azure.microsoft.com/en-us/support/legal/sla/
+
+Security, Governance, and Manageability
+=======================================
+https://azure.microsoft.com/en-gb/explore/security/
+https://docs.microsoft.com/en-us/azure/security/fundamentals/end-to-end
+https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/2-defense-in-depth
+https://docs.microsoft.com/en-us/azure/governance/
+https://docs.microsoft.com/en-us/azure/governance/policy/overview
+https://docs.microsoft.com/en-us/azure/governance/azure-management
+
+Cloud Service Types
+===================
+https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-iaas/#faq
+https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-iaas/#overview
+https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-paas/
+https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-saas/
+
+Azure Data Center Regions and Availability Zones
+================================================
+https://azure.microsoft.com/en-ca/global-infrastructure/
+https://azure.microsoft.com/en-us/global-infrastructure/geographies/#overview
+https://docs.microsoft.com/en-us/cli/azure/account?view=azure-cli-latest#az-account-list-locations
+https://docs.microsoft.com/en-us/azure/availability-zones/az-overview
+https://docs.microsoft.com/en-us/azure/availability-zones/az-overview#azure-regions-with-availability-zones
+https://docs.microsoft.com/en-us/azure/availability-zones/cross-region-replication-azure
+https://docs.microsoft.com/en-us/azure/availability-zones/cross-region-replication-azure#azure-cross-region-replication-pairings-for-all-geographies
+
+Resource Hierarchy in Azure
+===========================
+https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/govern/resource-consistency/resource-access-management#what-is-an-azure-resource
+https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-setup-guide/organize-resources
+https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/govern/resource-consistency/resource-access-management#what-is-an-azure-resource-group
+https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/govern/resource-consistency/resource-access-management#what-is-an-azure-subscription
+https://docs.microsoft.com/en-us/azure/governance/management-groups/overview
+https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-setup-guide/organize-resources
+https://docs.microsoft.com/en-us/azure/governance/management-groups/overview
+
+Compute Service Types in Azure
+==============================
+https://azure.microsoft.com/en-ca/products/
+https://docs.microsoft.com/en-us/azure/virtual-machines/overview
+https://docs.microsoft.com/en-us/azure/app-service/overview
+https://docs.microsoft.com/en-us/azure/azure-functions/functions-overview
+https://docs.microsoft.com/en-us/azure/container-instances/container-instances-overview
+https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree
+
+Application Hosting Options
+===========================
+https://docs.microsoft.com/en-us/azure/app-service/overview
+https://docs.microsoft.com/en-us/azure/azure-functions/functions-overview
+https://docs.microsoft.com/en-us/azure/azure-functions/supported-languages#languages-by-runtime-version
+
+VM Options in Azure
+===================
+https://docs.microsoft.com/en-us/azure/virtual-machines/overview
+https://docs.microsoft.com/en-us/azure/virtual-machines/overview#what-do-i-need-to-think-about-before-creating-a-virtual-machine
+https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits
+https://docs.microsoft.com/en-us/azure/virtual-machines/sizes
+https://docs.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-portal
+https://docs.microsoft.com/en-us/azure/virtual-machines/windows/quick-create-portal
+https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits#virtual-machines-limits---azure-resource-manager
+https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits
+https://docs.microsoft.com/en-us/azure/container-instances/container-instances-overview
+
+Resources Required for an Azure VM
+==================================
+https://docs.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-portal
+
+Azure Virtual Networks
+======================
+https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview
+https://docs.microsoft.com/en-us/azure/app-service/overview
+https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits#networking-limits
+https://docs.microsoft.com/en-us/azure/virtual-network/concepts-and-best-practices
+https://docs.microsoft.com/en-us/azure/cosmos-db/how-to-configure-firewall
+https://docs.microsoft.com/en-us/azure/security/fundamentals/network-overview
+https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-peering-overview
+https://docs.microsoft.com/en-us/azure/vpn-gateway/design#V2V
+
+Azure DNS
+=========
+https://docs.microsoft.com/en-us/azure/dns/dns-overview
+https://docs.microsoft.com/en-us/azure/dns/dns-zones-records
+https://docs.microsoft.com/en-us/azure/dns/dns-zones-records#record-sets
+https://docs.microsoft.com/en-us/azure/dns/private-dns-overview
+
+Connecting Other Networks to Azure
+==================================
+https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/hybrid-networking/
+https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpngateways
+https://docs.microsoft.com/en-us/azure/vpn-gateway/design
+https://docs.microsoft.com/en-us/azure/vpn-gateway/design#s2smulti
+https://docs.microsoft.com/en-us/azure/vpn-gateway/design#P2S
+https://docs.microsoft.com/en-us/azure/vpn-gateway/design#V2V
+https://docs.microsoft.com/en-us/azure/expressroute/expressroute-introduction
+https://docs.microsoft.com/en-us/azure/expressroute/expressroute-locations
+
+Public and Private Endpoints
+============================
+https://docs.microsoft.com/en-us/azure/private-link/private-endpoint-overview
+https://docs.microsoft.com/en-us/azure/private-link/private-endpoint-overview#private-link-resource
+
+Azure Storage Services
+======================
+https://docs.microsoft.com/en-us/azure/storage/common/storage-account-overview
+https://docs.microsoft.com/en-us/azure/storage/common/storage-introduction
+https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blobs-introduction
+https://docs.microsoft.com/en-us/azure/storage/tables/table-storage-overview
+https://docs.microsoft.com/en-us/azure/storage/queues/storage-queues-introduction
+https://docs.microsoft.com/en-us/azure/storage/files/storage-files-introduction
+
+Azure Storage Tiers
+===================
+https://azure.microsoft.com/en-ca/pricing/details/storage/blobs/
+https://learn.microsoft.com/en-us/rest/api/storageservices/understanding-block-blobs--append-blobs--and-page-blobs
+https://docs.microsoft.com/en-us/azure/storage/common/storage-account-overview#types-of-storage-accounts
+https://docs.microsoft.com/en-us/azure/storage/common/storage-account-overview#legacy-storage-account-types
+https://docs.microsoft.com/en-us/azure/storage/blobs/access-tiers-overview
+https://docs.microsoft.com/en-us/azure/storage/common/storage-redundancy
+https://docs.microsoft.com/en-us/azure/storage/common/storage-redundancy#durability-and-availability-parameters
+https://docs.microsoft.com/en-us/azure/storage/common/storage-redundancy#locally-redundant-storage
+https://docs.microsoft.com/en-us/azure/storage/common/storage-redundancy#zone-redundant-storage
+https://docs.microsoft.com/en-us/azure/storage/common/storage-redundancy#geo-redundant-storage
+https://docs.microsoft.com/en-us/azure/storage/common/storage-redundancy#geo-zone-redundant-storage
+
+Moving Files
+============
+https://docs.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-v10
+https://docs.microsoft.com/en-us/azure/vs-azure-tools-storage-manage-with-storage-explorer?tabs=windows
+https://learn.microsoft.com/en-us/azure/storage/file-sync/file-sync-deployment-guide
+https://docs.microsoft.com/en-us/azure/storage/file-sync/file-sync-introduction
+https://docs.microsoft.com/en-us/azure/data-factory/
+
+Migration Options
+=================
+https://docs.microsoft.com/en-us/azure/migrate/migrate-services-overview
+https://docs.microsoft.com/en-us/azure/migrate/migrate-services-overview#integrated-tools
+https://docs.microsoft.com/en-us/azure/databox/data-box-overview
+https://docs.microsoft.com/en-us/azure/databox/data-box-overview#data-box-components
+
+Managing Identity with Azure Active Directory (Azure AD, AAD)
+=============================================================
+https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-compare-azure-ad-to-ad
+https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-whatis
+https://docs.microsoft.com/en-us/azure/active-directory-domain-services/overview
+https://docs.microsoft.com/en-us/azure/active-directory/authentication/concept-authentication-methods
+https://docs.microsoft.com/en-us/azure/active-directory/authentication/concept-authentication-methods
+https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/what-is-single-sign-on
+https://docs.microsoft.com/en-us/azure/active-directory/external-identities/external-identities-overview
+https://docs.microsoft.com/en-us/azure/active-directory/governance/manage-guest-access-with-access-reviews
+
+Azure AD Conditional Access
+===========================
+https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/overview
+https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/overview#common-signals
+https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/overview#common-decisions
+https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/overview#license-requirements
+
+Azure Role-based Access Control (RBAC)
+======================================
+https://docs.microsoft.com/en-us/azure/role-based-access-control/overview
+https://docs.microsoft.com/en-us/azure/role-based-access-control/built-in-roles#cosmos-db-account-reader-role
+https://docs.microsoft.com/en-us/azure/role-based-access-control/built-in-roles
+
+Defense in Depth and Zero Trust
+===============================
+https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/2-defense-in-depth
+https://docs.microsoft.com/en-us/security/zero-trust/zero-trust-overview
+
+Microsoft Defender for Cloud
+============================
+https://docs.microsoft.com/en-us/azure/defender-for-cloud/defender-for-cloud-introduction
+
+Factors Affecting Costs in Azure
+================================
+https://learn.microsoft.com/en-us/training/modules/plan-manage-azure-costs/
+https://azure.microsoft.com/en-us/pricing/calculator/
+https://docs.microsoft.com/en-us/azure/cost-management-billing/reservations/save-compute-costs-reservations
+https://docs.microsoft.com/en-us/azure/cost-management-billing/costs/tutorial-acm-opt-recommendations
+https://docs.microsoft.com/en-us/azure/virtual-machines/spot-vms
+https://docs.microsoft.com/en-us/azure/virtual-machines/windows/hybrid-use-benefit-licensing
+
+Azure Calculators and SLAs
+==========================
+https://azure.microsoft.com/en-us/pricing/calculator/
+https://azure.microsoft.com/en-ca/pricing/tco/calculator/
+https://azure.microsoft.com/en-ca/support/legal/sla/
+https://docs.microsoft.com/en-us/azure/cost-management-billing/cost-management-billing-overview
+
+Azure Cost Management and Billing tool
+======================================
+https://docs.microsoft.com/en-us/azure/cost-management-billing/cost-management-billing-overview
+
+Azure Tags (Taxonomy Tags)
+==========================
+https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/tag-resources
+
+Azure Policy
+============
+https://docs.microsoft.com/en-us/azure/governance/
+https://docs.microsoft.com/en-us/azure/governance/policy/overview
+https://docs.microsoft.com/en-us/azure/governance/policy/overview#initiative-definition
+https://docs.microsoft.com/en-us/azure/governance/policy/concepts/assignment-structure
+
+Azure Blueprints
+================
+https://docs.microsoft.com/en-us/azure/governance/blueprints/overview
+
+Resource Locks
+==============
+https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/lock-resources
+https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/lock-resources?tabs=json#who-can-create-or-delete-locks
+
+Service Trust Portal
+====================
+https://servicetrust.microsoft.com/
+
+Azure Portal
+============
+https://docs.microsoft.com/en-us/azure/azure-portal/azure-portal-overview
+https://docs.microsoft.com/en-us/azure/azure-portal/azure-portal-overview
+https://docs.microsoft.com/en-us/azure/azure-portal/azure-portal-supported-browsers-devices
+https://azure.microsoft.com/en-us/get-started/azure-portal/mobile-app/
+
+Azure Cloud Shell
+=================
+https://docs.microsoft.com/en-us/azure/cloud-shell/overview
+https://docs.microsoft.com/en-us/cli/azure/install-azure-cli
+https://docs.microsoft.com/en-us/powershell/azure/install-az-ps?view=azps-8.2.0
+
+Azure Resource Manager Templates (ARM)
+======================================
+https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/overview
+https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/template-tutorial-create-first-template
+https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/syntax
+https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview?tabs=bicep
+
+Azure Arc
+=========
+https://docs.microsoft.com/en-us/azure/azure-arc/overview
+
+Azure Monitor
+=============
+https://docs.microsoft.com/en-us/azure/azure-monitor/overview
+https://docs.microsoft.com/en-us/azure/azure-monitor/alerts/alerts-overview
+https://docs.microsoft.com/en-us/azure/azure-monitor/alerts/alerts-overview#types-of-alerts
+https://docs.microsoft.com/en-us/azure/azure-monitor/alerts/action-groups
+https://docs.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview
+https://docs.microsoft.com/en-us/azure/azure-monitor/monitor-reference#insights-and-curated-visualizations
+
+Azure Advisor
+=============
+https://docs.microsoft.com/en-us/azure/advisor/advisor-overview
+
+Service Health
+==============
+https://docs.microsoft.com/en-us/azure/service-health/overview
+https://docs.microsoft.com/en-us/azure/service-health/azure-status-overview
+https://docs.microsoft.com/en-us/azure/service-health/resource-health-overview
+
+
+Thank you!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

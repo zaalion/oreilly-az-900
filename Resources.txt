@@ -6,6 +6,10 @@ Official exam page
 ==================
 https://learn.microsoft.com/en-us/certifications/exams/az-900
 
+AWS to Azure services comparison
+================================
+https://learn.microsoft.com/en-us/azure/architecture/aws-professional/services
+
 The course GitHub repository
 ============================
 https://github.com/zaalion/oreilly-az900ondemand
@@ -295,6 +299,10 @@ Service Health
 https://docs.microsoft.com/en-us/azure/service-health/overview
 https://docs.microsoft.com/en-us/azure/service-health/azure-status-overview
 https://docs.microsoft.com/en-us/azure/service-health/resource-health-overview
+
+Azure Latency
+=============
+https://www.azurespeed.com/Azure/Download
 
 
 Thank you!

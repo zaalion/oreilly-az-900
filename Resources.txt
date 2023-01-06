@@ -1,5 +1,5 @@
-On-demand O'Reilly AZ-900 Course
-================================
+On-demand O'Reilly AZ-900 Course with demos
+===========================================
 https://learning.oreilly.com/videos/microsoft-azure-fundamentals/0636920797234/
 
 Official exam page

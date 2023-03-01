@@ -12,6 +12,7 @@ https://learn.microsoft.com/en-us/azure/architecture/aws-professional/services
 
 The course GitHub repository
 ============================
+https://github.com/zaalion/oreilly-az-900
 https://github.com/zaalion/oreilly-az900ondemand
 
 Creating* a free** Azure account

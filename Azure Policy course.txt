@@ -1,0 +1,5 @@
+Azure Policy course
+-------------------
+
+Azure Governance and Compliance–Enforcing Rules and Optimizing Security with Azure Policy
+(https://learning.oreilly.com/search/?q=reza%20salehi&type=on-demand-course&rows=100&language=en)
